@@ -260,11 +260,6 @@ The API uses standard HTTP status codes and provides detailed error messages.
    - Ensure you're not exceeding rate limits
    - Check your network connection
 
-### Getting Help
-
-For additional support:
-1. Check the [GitHub issues](https://github.com/your-org/healthcare-api/issues)
-2. Contact support at support@yourhealthcareapi.com
 
 ---
 
