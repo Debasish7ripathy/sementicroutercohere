@@ -31,8 +31,7 @@ The Healthcare Management API is a robust system designed to handle various heal
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-org/healthcare-api.git
-cd healthcare-api
+cd sementicroutercohere
 ```
 
 2. Install required dependencies:
